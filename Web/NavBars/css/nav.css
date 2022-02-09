@@ -1,0 +1,28 @@
+header{
+    padding: 3%;
+    background: linear-gradient(black,grey);
+}
+
+nav a{
+    margin: 2%;
+    padding: 45px;
+    display: inline-block;
+    color: white;
+    align-items: center;
+    text-decoration: none;
+}
+
+nav a:focus{
+    background-color: red;                       ;
+}
+
+nav a:hover{
+    background: white;
+    color: black
+}
+.activee:hover{
+    
+    background: lightcoral;
+    transition-duration: 2s;
+    transform: rotate(360deg);
+}

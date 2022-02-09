@@ -1,0 +1,17 @@
+h1{
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif; 
+    font: Helvetica  !important;
+    font-style: oblique;
+    background-color: aquamarine;
+    font-size: 135%;
+    text-align: center;
+    line-height: 100%;
+    font-variant: small-caps;
+}
+p{
+    color: blueviolet;
+}
+h1{
+    font:  Arial;
+}

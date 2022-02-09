@@ -1,0 +1,10 @@
+.close{
+    display: none;
+}
+.open{
+    display: block;
+}
+button{
+    width: 150px;
+    background-color: blueviolet;
+}
